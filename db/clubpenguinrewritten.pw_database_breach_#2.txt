@@ -1,0 +1,71 @@
+Club Penguin Rewritten has been breached. All account information, including penguin name, password, e-mail, IP have been leaked. Below is 25 random accounts selected from the breach. More will come.
+
+All accounts have been breached.
+
+http://clubpenguinrewritten.pw is not safe.
+
+mysql> select `ID`, `username`, `password` from `cpr_dump` order by rand() limit 25;
++--------+--------------+--------------+
+| ID     | username     | password     |
++--------+--------------+--------------+
+| 143567 | Zig A        | pufles       |
+|  12197 | Bitbux1219   | gabby1219    |
+| 128419 | Furno02      | ninjago      |
+| 139456 | Sh25         | 123asd       |
+|   3289 | Csipsz1      | 1hunor9hunor |
+|   4903 | King Mondo   | bratso       |
+|  13042 | Rollup0      | roll12       |
+|  29345 | Yellow3590   | longitud     |
+| 158271 | Ahgh21397    | maxstell     |
+| 152350 | Phsmile      | 040326       |
+|   3181 | Piningozon   | calcetines   |
+| 161736 | Agent S321   | marley123    |
+|  90636 | 1bluebuddy2  | mycody       |
+|  41784 | Archie86430  | rednose      |
+| 120384 | Bossedit327  | bossboss     |
+|   4566 | Goofytoot    | 8675309s     |
+| 150239 | Rapha91      | 249264rera   |
+|  43524 | Holly50      | holden19     |
+| 116491 | Skeeball22   | tighttight96 |
+|  36516 | Dako100      | pokemon      |
+|  17355 | Tintolas4    | j566j5       |
+|  98403 | Fred Fred227 | turtle       |
+|    706 | Gelado78208  | Tuquinha9    |
+|  64175 | Joseph12341  | ellen1       |
+|  61679 | Ethman10     | blueice7     |
++--------+--------------+--------------+
+25 rows in set (0.00 sec)
+
+As requested, 25 more randomly selected:
+
+mysql> select `ID`, `username`, `password` from `cpr_dump` order by rand() limit 25;
++--------+--------------+--------------+
+| ID     | username     | password     |
++--------+--------------+--------------+
+|  12514 | Apple117     | basketball   |
+|   5521 | Foguinhoo5   | gustavinho   |
+|  25363 | Dfwx04       | smartcart    |
+|   1395 | Lilythefrog  | ishaw3s0me   |
+|  41335 | Lui2004      | mamas        |
+|  97797 | Lbear2001    | monsterbear  |
+|  28011 | Bluey52005   | puff132      |
+| 159656 | Candyfan213  | frank123     |
+| 147978 | Ppoffle      | ainsley      |
+|   1144 | Toadette1741 | sunsetnow    |
+| 158271 | Ahgh21397    | maxstell     |
+|  35292 | Pizza87879   | taraoggosi24 |
+|  73629 | Tomcruise50  | 151182CJ     |
+|    268 | Littlee37    | Rpckmc05@    |
+| 131469 | Bomalolgirl  | winter2012   |
+| 156982 | Ozzy7602     | hotpocket    |
+|  17355 | Tintolas4    | j566j5       |
+|  15831 | Uuyy2        | 12345y       |
+| 161736 | Agent S321   | marley123    |
+|  19674 | Streetwize   | mi72la09     |
+|  15647 | Ben 20       | thiago123    |
+|  56689 | King0909     | tt01999      |
+| 144641 | Ameara12345  | vargo9323    |
+|   1894 | Cardsgame    | google123    |
+|  41784 | Archie86430  | rednose      |
++--------+--------------+--------------+
+25 rows in set (0.01 sec)
